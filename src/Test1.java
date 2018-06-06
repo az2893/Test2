@@ -7,7 +7,7 @@ public class Test1 {
           System.out.println(o.getResult(1,3));
 
 
-          System.out.println("Hello GitHub! ");
+          System.out.println("Hello GitHub  !");
 
     }
 
