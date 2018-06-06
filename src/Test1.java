@@ -21,6 +21,8 @@ public class Test1 {
       System.out.println("Hello GitHub 5 !");
 
        System.out.println("Hello GitHub 6 !");
+      
+      System.out.println("Hello GitHub 7 !");
     }
 
 
