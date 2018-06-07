@@ -24,6 +24,10 @@ public class Test1 {
           System.out.println("Hello GitHub 7 !");
 
           System.out.println("今天高考，测试一下不同状态下文件的颜色");
+
+          //test2
+          System.out.println("我是Test2 我要写并发提交");
+
       // 被修改是蓝色
   }
 
