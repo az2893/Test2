@@ -25,6 +25,10 @@ public class Test1 {
 
           System.out.println("今天高考，测试一下不同状态下文件的颜色");
       // 被修改是蓝色
+
+      //测试并发修改
+      System.out.println("我是Test3,我也要测试并发");
+
   }
 
 
