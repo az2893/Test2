@@ -29,6 +29,10 @@ public class Test1 {
           System.out.println("我是Test2 我要写并发提交");
 
       // 被修改是蓝色
+
+      //测试并发修改
+      System.out.println("我是Test3,我也要测试并发");
+
   }
 
 
